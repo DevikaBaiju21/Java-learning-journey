@@ -9,6 +9,7 @@ A menu-driven Java project which enables users to create an account, withdraw or
 * Withdraw money
 * Check for duplicate accounts
 * Stores account details using an array
+* Check balance
 
 ## How to Run
 1. Compile the program:
